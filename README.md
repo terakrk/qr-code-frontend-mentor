@@ -26,8 +26,8 @@ This is a QR code. It took me a while, but I'm proud of all I've learned.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-made-with-flexbox-Y1w2XvMAeK)
+- Live Site URL: [Add live site URL here](https://jolly-fox-abb9ee.netlify.app/)
 
 ### Built with
 
