@@ -21,7 +21,7 @@ This is a QR code. It took me a while, but I'm proud of all I've learned.
 
 ### Screenshot
 
-![QR Code screenshot](./images/qr-code.png)
+![QR Code screenshot](./images/qr-code.jpg)
 
 
 ### Links
